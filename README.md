@@ -1,4 +1,5 @@
 AI_OMICS_RESEARCH INTERNSHIP
+
 This is my official repository of the AI and Omics Research Internship (2025).
 
 This internship is divided into four progressive modules:
