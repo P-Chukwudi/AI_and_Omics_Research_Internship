@@ -13,4 +13,7 @@ Module III: Genomic Data Analysis: Includes pre-processing, normalization, and d
 Module IV: Case Studies: Applications Using RNA-seq and Microarray Data: Involving end-to-end pipeline analysis from data preprocessing, machine learning to pathway ana;ysis and result interpretation.
 
 Tasks and Assignments completed
-1. class_1b: R Basic operations 
+1. class_1b assignment: R Basic operations
+2. class 2 assignment: Log2FC and padj
+3. class 3 assignment:
+4. class 5 assignment:
